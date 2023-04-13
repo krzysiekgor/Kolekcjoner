@@ -6,4 +6,27 @@
         <Nullable>enable</Nullable>
     </PropertyGroup>
 
+    <ItemGroup>
+      <PackageReference Include="EntityFramework" Version="6.4.4" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <ProjectReference Include="..\KolekcjonerModel\KolekcjonerModel.csproj" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Update="ConectionString.resx">
+        <Generator>ResXFileCodeGenerator</Generator>
+        <LastGenOutput>ConectionString.Designer.cs</LastGenOutput>
+      </EmbeddedResource>
+    </ItemGroup>
+
+    <ItemGroup>
+      <Compile Update="ConectionString.Designer.cs">
+        <DesignTime>True</DesignTime>
+        <AutoGen>True</AutoGen>
+        <DependentUpon>ConectionString.resx</DependentUpon>
+      </Compile>
+    </ItemGroup>
+
 </Project>

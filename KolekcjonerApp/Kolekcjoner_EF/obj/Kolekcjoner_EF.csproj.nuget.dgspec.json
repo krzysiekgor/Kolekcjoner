@@ -4,14 +4,14 @@
     "P:\\Kolekcjoner\\KolekcjonerApp\\Kolekcjoner_EF\\Kolekcjoner_EF.csproj": {}
   },
   "projects": {
-    "P:\\Kolekcjoner\\KolekcjonerApp\\Kolekcjoner_EF\\Kolekcjoner_EF.csproj": {
+    "P:\\Kolekcjoner\\KolekcjonerApp\\KolekcjonerModel\\KolekcjonerModel.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "P:\\Kolekcjoner\\KolekcjonerApp\\Kolekcjoner_EF\\Kolekcjoner_EF.csproj",
-        "projectName": "Kolekcjoner_EF",
-        "projectPath": "P:\\Kolekcjoner\\KolekcjonerApp\\Kolekcjoner_EF\\Kolekcjoner_EF.csproj",
+        "projectUniqueName": "P:\\Kolekcjoner\\KolekcjonerApp\\KolekcjonerModel\\KolekcjonerModel.csproj",
+        "projectName": "KolekcjonerModel",
+        "projectPath": "P:\\Kolekcjoner\\KolekcjonerApp\\KolekcjonerModel\\KolekcjonerModel.csproj",
         "packagesPath": "C:\\Users\\krzys\\.nuget\\packages\\",
-        "outputPath": "P:\\Kolekcjoner\\KolekcjonerApp\\Kolekcjoner_EF\\obj\\",
+        "outputPath": "P:\\Kolekcjoner\\KolekcjonerApp\\KolekcjonerModel\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\krzys\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,71 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "P:\\Kolekcjoner\\KolekcjonerApp\\Kolekcjoner_EF\\Kolekcjoner_EF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "P:\\Kolekcjoner\\KolekcjonerApp\\Kolekcjoner_EF\\Kolekcjoner_EF.csproj",
+        "projectName": "Kolekcjoner_EF",
+        "projectPath": "P:\\Kolekcjoner\\KolekcjonerApp\\Kolekcjoner_EF\\Kolekcjoner_EF.csproj",
+        "packagesPath": "C:\\Users\\krzys\\.nuget\\packages\\",
+        "outputPath": "P:\\Kolekcjoner\\KolekcjonerApp\\Kolekcjoner_EF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\krzys\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "P:\\Kolekcjoner\\KolekcjonerApp\\KolekcjonerModel\\KolekcjonerModel.csproj": {
+                "projectPath": "P:\\Kolekcjoner\\KolekcjonerApp\\KolekcjonerModel\\KolekcjonerModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
