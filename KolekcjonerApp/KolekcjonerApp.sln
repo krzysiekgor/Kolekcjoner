@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KolekcjonerAPI", "Kolekcjon
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KolekcjonerModel", "KolekcjonerModel\KolekcjonerModel.csproj", "{24BDBC98-B18A-4EA6-8661-6532306C96E6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kolekcjoner_EF", "Kolekcjoner_EF\Kolekcjoner_EF.csproj", "{CC121AC7-1EE8-464A-8385-2051B18A56D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{24BDBC98-B18A-4EA6-8661-6532306C96E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24BDBC98-B18A-4EA6-8661-6532306C96E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24BDBC98-B18A-4EA6-8661-6532306C96E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CC121AC7-1EE8-464A-8385-2051B18A56D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC121AC7-1EE8-464A-8385-2051B18A56D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC121AC7-1EE8-464A-8385-2051B18A56D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC121AC7-1EE8-464A-8385-2051B18A56D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
