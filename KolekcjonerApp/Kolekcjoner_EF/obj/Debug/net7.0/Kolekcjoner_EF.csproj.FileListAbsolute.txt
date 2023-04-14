@@ -1,0 +1,17 @@
+P:\Kolekcjoner\KolekcjonerApp\Kolekcjoner_EF\bin\Debug\net7.0\Kolekcjoner_EF.deps.json
+P:\Kolekcjoner\KolekcjonerApp\Kolekcjoner_EF\bin\Debug\net7.0\Kolekcjoner_EF.dll
+P:\Kolekcjoner\KolekcjonerApp\Kolekcjoner_EF\bin\Debug\net7.0\Kolekcjoner_EF.pdb
+P:\Kolekcjoner\KolekcjonerApp\Kolekcjoner_EF\bin\Debug\net7.0\KolekcjonerModel.dll
+P:\Kolekcjoner\KolekcjonerApp\Kolekcjoner_EF\bin\Debug\net7.0\KolekcjonerModel.pdb
+P:\Kolekcjoner\KolekcjonerApp\Kolekcjoner_EF\obj\Debug\net7.0\Kolekcjoner_EF.csproj.AssemblyReference.cache
+P:\Kolekcjoner\KolekcjonerApp\Kolekcjoner_EF\obj\Debug\net7.0\Kolekcjoner_EF.ConectionString.resources
+P:\Kolekcjoner\KolekcjonerApp\Kolekcjoner_EF\obj\Debug\net7.0\Kolekcjoner_EF.csproj.GenerateResource.cache
+P:\Kolekcjoner\KolekcjonerApp\Kolekcjoner_EF\obj\Debug\net7.0\Kolekcjoner_EF.GeneratedMSBuildEditorConfig.editorconfig
+P:\Kolekcjoner\KolekcjonerApp\Kolekcjoner_EF\obj\Debug\net7.0\Kolekcjoner_EF.AssemblyInfoInputs.cache
+P:\Kolekcjoner\KolekcjonerApp\Kolekcjoner_EF\obj\Debug\net7.0\Kolekcjoner_EF.AssemblyInfo.cs
+P:\Kolekcjoner\KolekcjonerApp\Kolekcjoner_EF\obj\Debug\net7.0\Kolekcjoner_EF.csproj.CoreCompileInputs.cache
+P:\Kolekcjoner\KolekcjonerApp\Kolekcjoner_EF\obj\Debug\net7.0\Kolekcjoner_EF.csproj.CopyComplete
+P:\Kolekcjoner\KolekcjonerApp\Kolekcjoner_EF\obj\Debug\net7.0\Kolekcjoner_EF.dll
+P:\Kolekcjoner\KolekcjonerApp\Kolekcjoner_EF\obj\Debug\net7.0\refint\Kolekcjoner_EF.dll
+P:\Kolekcjoner\KolekcjonerApp\Kolekcjoner_EF\obj\Debug\net7.0\Kolekcjoner_EF.pdb
+P:\Kolekcjoner\KolekcjonerApp\Kolekcjoner_EF\obj\Debug\net7.0\ref\Kolekcjoner_EF.dll

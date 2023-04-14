@@ -1,0 +1,12 @@
+P:\Kolekcjoner\KolekcjonerApp\KolekcjonerModel\bin\Debug\net7.0\KolekcjonerModel.deps.json
+P:\Kolekcjoner\KolekcjonerApp\KolekcjonerModel\bin\Debug\net7.0\KolekcjonerModel.dll
+P:\Kolekcjoner\KolekcjonerApp\KolekcjonerModel\bin\Debug\net7.0\KolekcjonerModel.pdb
+P:\Kolekcjoner\KolekcjonerApp\KolekcjonerModel\obj\Debug\net7.0\KolekcjonerModel.csproj.AssemblyReference.cache
+P:\Kolekcjoner\KolekcjonerApp\KolekcjonerModel\obj\Debug\net7.0\KolekcjonerModel.GeneratedMSBuildEditorConfig.editorconfig
+P:\Kolekcjoner\KolekcjonerApp\KolekcjonerModel\obj\Debug\net7.0\KolekcjonerModel.AssemblyInfoInputs.cache
+P:\Kolekcjoner\KolekcjonerApp\KolekcjonerModel\obj\Debug\net7.0\KolekcjonerModel.AssemblyInfo.cs
+P:\Kolekcjoner\KolekcjonerApp\KolekcjonerModel\obj\Debug\net7.0\KolekcjonerModel.csproj.CoreCompileInputs.cache
+P:\Kolekcjoner\KolekcjonerApp\KolekcjonerModel\obj\Debug\net7.0\KolekcjonerModel.dll
+P:\Kolekcjoner\KolekcjonerApp\KolekcjonerModel\obj\Debug\net7.0\refint\KolekcjonerModel.dll
+P:\Kolekcjoner\KolekcjonerApp\KolekcjonerModel\obj\Debug\net7.0\KolekcjonerModel.pdb
+P:\Kolekcjoner\KolekcjonerApp\KolekcjonerModel\obj\Debug\net7.0\ref\KolekcjonerModel.dll

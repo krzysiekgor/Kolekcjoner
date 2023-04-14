@@ -1,6 +1,10 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KolekcjonerAPI", "KolekcjonerAPI\KolekcjonerAPI.csproj", "{E8022E6A-7E47-471C-B820-980CC65768CF}"
+	ProjectSection(ProjectDependencies) = postProject
+		{CC121AC7-1EE8-464A-8385-2051B18A56D8} = {CC121AC7-1EE8-464A-8385-2051B18A56D8}
+		{24BDBC98-B18A-4EA6-8661-6532306C96E6} = {24BDBC98-B18A-4EA6-8661-6532306C96E6}
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KolekcjonerModel", "KolekcjonerModel\KolekcjonerModel.csproj", "{24BDBC98-B18A-4EA6-8661-6532306C96E6}"
 EndProject
